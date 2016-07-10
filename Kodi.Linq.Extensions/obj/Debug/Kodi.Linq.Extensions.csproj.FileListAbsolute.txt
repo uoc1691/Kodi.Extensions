@@ -1,0 +1,4 @@
+c:\users\kodi\documents\visual studio 2015\Projects\Kodi.Linq.Extensions\Kodi.Linq.Extensions\bin\Debug\Kodi.Linq.Extensions.dll
+c:\users\kodi\documents\visual studio 2015\Projects\Kodi.Linq.Extensions\Kodi.Linq.Extensions\bin\Debug\Kodi.Linq.Extensions.pdb
+c:\users\kodi\documents\visual studio 2015\Projects\Kodi.Linq.Extensions\Kodi.Linq.Extensions\obj\Debug\Kodi.Linq.Extensions.dll
+c:\users\kodi\documents\visual studio 2015\Projects\Kodi.Linq.Extensions\Kodi.Linq.Extensions\obj\Debug\Kodi.Linq.Extensions.pdb
