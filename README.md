@@ -1,4 +1,4 @@
-# Kodi.Linq.Extensions
+# Kodi.Collections.Extensions
 This contains extensions for linq written in C#.
 
 ##Extension methods
