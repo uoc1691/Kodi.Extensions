@@ -1,5 +1,5 @@
 # Kodi.Extensions
-This contains extensions for linq written in C#.
+This small library includes extension methods that are useful in day to day programming. This includes extension methods for collections and Linq.
 
 ##IEnumerable extension methods
 ###Shuffle()
